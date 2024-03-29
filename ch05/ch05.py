@@ -34,6 +34,8 @@ from sklearn.decomposition import KernelPCA
 
 
 
+# %load_ext watermark
+# %watermark -a "Sebastian Raschka" -u -d -p numpy,scipy,matplotlib,sklearn
 
 
 # *The use of `watermark` is optional. You can install this Jupyter extension via*  

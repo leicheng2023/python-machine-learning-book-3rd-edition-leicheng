@@ -21,6 +21,8 @@ from matplotlib.colors import ListedColormap
 
 
 
+# %load_ext watermark
+# %watermark -a "Sebastian Raschka" -u -d -p numpy,pandas,matplotlib
 
 
 # *The use of `watermark` is optional. You can install this Jupyter extension via*  
